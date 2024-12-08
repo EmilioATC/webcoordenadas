@@ -1,5 +1,24 @@
-# Webcoordenadas
+# Sistema de Ubicación de Refugios
 
+Descripción del Proyecto
+El Sistema de Ubicación de Refugios es una aplicación web interactiva diseñada para facilitar la localización y gestión de refugios disponibles en el estado de Durango. Este proyecto fue desarrollado utilizando Angular 16 para el front-end, incorporando un mapa interactivo que muestra los refugios de manera visual y accesible. Los datos de ubicación y detalles de los refugios se almacenan en Firebase, permitiendo actualizaciones en tiempo real y acceso eficiente a la información.
+
+El sistema está diseñado con un enfoque en la experiencia del usuario, ofreciendo una interfaz intuitiva que simplifica la consulta y administración de los refugios, asegurando una herramienta práctica y funcional para los usuarios.
+
+Características Principales
+Mapa Interactivo: Visualización de refugios con marcadores personalizados.
+Actualización en Tiempo Real: Gestión de datos a través de Firebase para garantizar precisión y accesibilidad.
+Interfaz Intuitiva: Diseño centrado en el usuario para facilitar la navegación y el uso de la aplicación.
+Responsividad: Optimización para dispositivos móviles y de escritorio.
+
+Tecnologías Utilizadas
+Angular 16: Desarrollo del front-end y componentes interactivos.
+Firebase: Base de datos en tiempo real para el manejo eficiente de la información.
+HTML5 y CSS3: Diseño y estructura del sitio.
+TypeScript: Programación del cliente para funcionalidades avanzadas.
+
+Contribución
+Si deseas contribuir al proyecto, no dudes en enviar un pull request o contactarme directamente para discutir mejoras y nuevas funcionalidades.
 Requisitos
 
 Para ejecutar este proyecto, necesitas tener los siguientes requisitos instalados en tu computadora:
